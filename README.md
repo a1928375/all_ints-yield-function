@@ -1,1 +1,3 @@
-# all_ints-yield-function-
+# all_ints-yield-function
+
+Generate integers in the order 0, +1, -1, +2, -2, +3, -3, ...
